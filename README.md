@@ -23,7 +23,7 @@ My homepage: [blog.bestxq.live](https://blog.bestxq.live)
  **Tools and Frameworks:**
 <p align="left">
   <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></code>&nbsp;
-  <code><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficon-icons.com%2Fzh%2F%25E5%259B%25BE%25E6%25A0%2587%2Frabbitmq-%25E6%25A0%2587%25E5%25BF%2597%2F170812&psig=AOvVaw3PiUGvSMDr38ZH3kOPCtxp&ust=1681274475776000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCPjhpNGBof4CFQAAAAAdAAAAABAE" alt="rabbitmq" width="40" height="40" /></code>&nbsp;
+  <code><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgsAA4QYhMIZwAFH-rTOK1FyE3EUPGhi4cxApUIIQ_pw&s" alt="rabbitmq" width="40" height="40" /></code>&nbsp;
   <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git" width="40" height="40" /></code>&nbsp;
   <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></code>&nbsp;
   <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></code>&nbsp;
