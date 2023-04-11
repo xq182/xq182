@@ -23,7 +23,7 @@ My homepage: [blog.bestxq.live](https://blog.bestxq.live)
  **Tools and Frameworks:**
 <p align="left">
   <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></code>&nbsp;
-  <code><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgsAA4QYhMIZwAFH-rTOK1FyE3EUPGhi4cxApUIIQ_pw&s" alt="rabbitmq" width="40" height="40" /></code>&nbsp;
+  <code><img src="https://img.88icon.com/download/jpg/20200904/0b55f88d5f9efa155e634702c0098355_512_512.jpg!con" alt="rabbitmq" width="40" height="40" /></code>&nbsp;
   <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git" width="40" height="40" /></code>&nbsp;
   <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></code>&nbsp;
   <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></code>&nbsp;
